@@ -1,3 +1,5 @@
 
-# inf122
-https://www.figma.com/file/kzfzgEc3DDiwxYU7Pba5YQ/Figma-basics?type=design&node-id=1669-162202&mode=design&t=DqG9qxa68Bpc85sx-0
+* inf122
+* Nombre: Bradimir Begner Apaza Quispe
+* Materia: inf122
+* Color Favorito: #f0f0f0
